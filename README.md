@@ -23,7 +23,7 @@ En el cirtuuit original caldrà efegir-hi 4 pulsadors que tenen les funcions seg
 •	GPIO 17 - Defineix n (apasos). Pulsant seqüencialment obtindrem pasos: 
 	1 Hz → 10 Hz → 100 Hz → 1 kHz → 10 kHz → 100 kHz → 1 MHz → 10 MHz → 1 Hz
 	
-•	GPIO 16 - onmuta la visualització entre la freqüencia de la senyal d'entrada (GPIO 34) o la freqüencia de la senyal generada (GPIO 33).
+•	GPIO 16 - commuta la visualització entre la freqüencia de la senyal d'entrada (GPIO 34) o la freqüencia de la senyal generada (GPIO 33).
 
 -----------------------
 Frequency meter and oscillator (1 Hz - 40 MHz) based on ESP32 (ENG)
